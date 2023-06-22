@@ -1,0 +1,4 @@
+[Errores en la conecion y el ssl en local]
+
+dotnet dev-certs https --clean
+dotnet dev-certs https --trust
